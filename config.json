@@ -1,0 +1,9 @@
+{
+    "authorization": "eF3xxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "zoneID": "683xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "zoneName": "example.com",
+    "proxied": true,
+    "type": "A",
+    "period": 300
+
+}
